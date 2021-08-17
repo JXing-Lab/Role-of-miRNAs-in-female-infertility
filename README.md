@@ -1,6 +1,7 @@
 # miRNA Project
 
-This repository contains data and scripts for Tyc, K. M., A. Wong, R. T. Scott, Jr., X. Tao, K. Schindler, and J. Xing (2021) Analysis of DNA variants in miRNAs and miRNA 3’UTR binding sites in female infertility patients. Laboratory Investigation 101:503–512 
+This repository contains data and scripts for 
+Tyc, K. M., A. Wong, R. T. Scott, Jr., X. Tao, K. Schindler, and J. Xing (2021) Analysis of DNA variants in miRNAs and miRNA 3’UTR binding sites in female infertility patients. Laboratory Investigation 101:503–512 
 
 
 ## Quick Start
